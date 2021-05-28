@@ -1,0 +1,13 @@
+name: ml_classes
+channels:
+ - conda-forge
+ - defaults
+dependencies:
+ - python == 3.8.5
+ - numpy 
+ - pandas
+ - seaborn
+ - matplotlib
+ - sklearn
+ - joblib
+ - pip
