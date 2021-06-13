@@ -3,6 +3,9 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# csv files - link in 05_
+/project_data
+
 # C extensions
 *.so
 
